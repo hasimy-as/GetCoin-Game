@@ -1,2 +1,2 @@
-# Get-Coin
-An Android Game Application about a character that must catch coins and avoid bombs.
+# Remember-Game
+An Android Game Application about remembering, and improving memory.
