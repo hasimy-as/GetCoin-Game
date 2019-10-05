@@ -4,7 +4,6 @@ An Android Game Application about catching coins and avoiding bombs.
 # Project Status
 
 [![Github license](https://img.shields.io/badge/License-MIT-yellow.svg)](https://raw.githubusercontent.com/hasimy-as/GetCoin-Game/master/LICENSE)
-[![npm version](https://img.shields.io/npm/v/npm.svg)](https://www.npmjs.com/)
 
 ## Version 1.0
 
